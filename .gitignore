@@ -32,3 +32,10 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# -----------------------------
+# Backend & Security Secrets
+# -----------------------------
+.env
+secure_config/
+*_service_key.json
